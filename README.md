@@ -1,6 +1,3 @@
-MD simulations: plot ion distance to key binding-site residue(s) over simulation time.
-AF3 modeling: align AF3 models to the experimental structure and compare predicted vs experimental Na binding sites.
-
 AF3_ion_align_all.py
 Aligns all AF3 models to the experimental reference structure using CA atoms, then saves the aligned models as PDBs.
 
